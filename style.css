@@ -1,0 +1,44 @@
+.containerpic {
+    height: 300px;
+    width:300px;
+    margin: 0 auto;
+}
+#pic {
+    height: 100%;
+    Width: 100%;
+    margin: 0, auto;
+    border-radius: 10%;
+    
+
+}
+.body {
+    margin: 0 auto;
+    background-color: black;
+    height: 700px;
+    width: 700px;
+    padding: 0px;
+    margin: 0, auto;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bkg {
+  position: absolute;
+  width: auto;
+  height: auto;
+  margin: 0 auto;
+  z-index: -5
+}
+body {
+    margin: 0 auto;
+}
+h1 {
+    margin-left: 20px;
+}
+h2, p {
+    padding: 20px;
+    position: center;
+}
+a {
+    position: absolute;
+    margin-left: 50px;
+}
